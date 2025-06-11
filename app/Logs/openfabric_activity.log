@@ -1,0 +1,39 @@
+2025-06-11 19:36:36,674 - INFO - File handler added to main logger: ./Logs/openfabric_activity.log
+2025-06-11 19:36:36,674 - INFO - Main application logger fully initialized.
+2025-06-11 19:36:36,674 - INFO - Saving new config for user with id:'super-user'
+2025-06-11 19:36:36,687 - INFO - Ollama embedding function initialized with model 'llama3'.
+2025-06-11 19:36:36,736 - INFO - Long-term ChromaDB collection 'creations_long_term' initialized at: ./chroma_db
+2025-06-11 19:36:36,753 - INFO - Short-term ChromaDB collection 'creations_short_term' initialized.
+2025-06-11 19:36:36,753 - INFO - MemoryManager initialized successfully.
+2025-06-11 19:36:37,291 - INFO - File handler added to main logger: ./Logs/openfabric_activity.log
+2025-06-11 19:36:37,291 - INFO - Main application logger fully initialized.
+2025-06-11 19:36:37,292 - INFO - Saving new config for user with id:'super-user'
+2025-06-11 19:36:37,303 - INFO - Ollama embedding function initialized with model 'llama3'.
+2025-06-11 19:36:37,345 - INFO - Long-term ChromaDB collection 'creations_long_term' initialized at: ./chroma_db
+2025-06-11 19:36:37,362 - INFO - Short-term ChromaDB collection 'creations_short_term' initialized.
+2025-06-11 19:36:37,362 - INFO - MemoryManager initialized successfully.
+2025-06-11 19:36:50,623 - INFO - --- STARTING NEW EXECUTION ---
+2025-06-11 19:36:50,623 - INFO - Received user prompt: 'A vibrant coral reef with colorful exotic fish swimming around.”'
+2025-06-11 19:36:50,623 - INFO - Current configurations state: {'super-user': ConfigClass(app_ids=['c25dcd829d134ea98f5ae4dd311d13bc.node3.openfabric.network', 'f0b5f319156c4819b9827000b17e511a.node3.openfabric.network'])}
+2025-06-11 19:36:50,623 - INFO - Using app IDs: ['c25dcd829d134ea98f5ae4dd311d13bc.node3.openfabric.network', 'f0b5f319156c4819b9827000b17e511a.node3.openfabric.network']
+2025-06-11 19:36:51,848 - INFO - Analyzing user prompt for intent: 'A vibrant coral reef with colorful exotic fish swi...'
+2025-06-11 19:36:52,485 - INFO - Detected intent: new_generation
+2025-06-11 19:37:03,763 - INFO - Expanded prompt: Let me paint a picture for you!
+
+Imagine a majestic coral reef, teeming with life and radiating an aura of vibrant energy. The underwater world is bathed in the warm glow of golden sunlight filtering down from above, casting a mesmerizing array of shadows on the seafloor.
+
+The coral itself is a kaleidoscope of colors - think fiery oranges, electric blues, and sunshine yellows - with delicate tendrils and branches undulating like a choreographed dance. As you gaze deeper into the reef's nooks and crannies, you'll spot clusters of sea fans waving gently in the currents, their feathery plumes shimmering like iridescent jewels.
+
+Now, let your eyes wander to the fish! A rainbow-hued school of damselfish darts about, their iridescent scales glimmering like stained glass. They're joined by a trio of bright blue tangs, their fins flapping in unison as they cruise through the coral formations. Nearby, a majestic angelfish perches, its long pectoral fin fluttering like a celestial banner.
+
+The water itself is a rich, turquoise blue, with wispy tendrils of seaweed drifting lazily across the seafloor. The texture is almost velvety, with tiny bubbles rising to the surface like a champagne fizz. As you look closer, you'll spot tiny shrimp and sea cucumbers scurrying about, adding to the reef's tapestry of life.
+
+The composition is dynamic, with fish darting in and out of crevices and coral formations, creating a sense of movement and energy. The coral itself forms a natural archway, framing the scene like a vibrant canvas. In the background, the sunlight creates a subtle gradient of blues and greens, fading into the distance like a gentle mist.
+
+To capture this magical moment, imagine a camera positioned at a 45-degree angle, hovering just above the seafloor. The lens should be focused on the coral reef's central axis, with the fish swimming about in a loose, curving line that echoes the shape of the coral itself. As you frame your shot, consider incorporating some subtle depth cues - like the shadowy silhouette of a nearby rock formation or the faint outline of a diver's fins disappearing into the distance.
+
+In short, this is a visual feast for the senses, inviting viewers to dive into the vibrant world beneath the waves and experience the magic of life on a coral reef!
+2025-06-11 19:37:07,884 - INFO - Generated image saved as: ./OutputImage/generated_image_20250611193707.png
+2025-06-11 19:37:09,547 - INFO - Creation 'b0c4610b-59f1-4174-a35e-af4a6f82bc99' saved to Long-term ChromaDB.
+2025-06-11 19:37:11,023 - INFO - Creation 'b0c4610b-59f1-4174-a35e-af4a6f82bc99' also added to Short-term ChromaDB.
+2025-06-11 19:37:11,024 - INFO - Creation successfully saved to memory with ID: b0c4610b-59f1-4174-a35e-af4a6f82bc99

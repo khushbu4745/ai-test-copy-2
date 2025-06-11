@@ -1,0 +1,5 @@
+2025-06-11 19:37:22,878 - INFO - Added file handler to main logger: ./Logs/app_activity.log
+2025-06-11 19:37:22,878 - INFO - Created session-specific logs directory: ./Logs/sessions
+2025-06-11 19:37:22,878 - INFO - Initialized session-specific logger for file: ./Logs/sessions/generation_details_20250611_193722.log
+2025-06-11 19:37:22,953 - INFO - MemoryManager initialized in Streamlit session state.
+2025-06-11 19:37:24,079 - INFO - Openfabric Stub initialized with IDs: ['c25dcd829d134ea98f5ae4dd311d13bc.node3.openfabric.network']
